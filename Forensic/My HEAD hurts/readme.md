@@ -1,4 +1,4 @@
 ## Description
-Codex is making my head hurt so bad
+Codex make my head hurt so bad
 
 Author : JersYY
